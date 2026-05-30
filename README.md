@@ -30,4 +30,4 @@ The app uses the injuries dataset from the openintro package.
 
 ## Author
 
-YOUR NAME
+William Chen
